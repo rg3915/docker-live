@@ -6,10 +6,6 @@ Live de introdução ao Docker com @gomex
 
 * [Python 3.8.2](https://www.python.org/)
 * [Django 2.2.16](https://www.djangoproject.com/)
-* [Django Rest Framework 3.11.1](https://www.django-rest-framework.org/)
-* [Bootstrap 4.0](https://getbootstrap.com/)
-* [VueJS 2.6.11](https://vuejs.org/)
-* [jQuery 3.4.1](https://jquery.com/)
 
 ## Como rodar o projeto?
 
