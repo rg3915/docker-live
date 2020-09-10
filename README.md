@@ -24,3 +24,9 @@ pip install -r requirements.txt
 python contrib/env_gen.py
 python manage.py migrate
 ```
+
+Rodando a aplicação
+
+```
+python manage.py runserver
+```
