@@ -1,0 +1,14 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  web:
+    build:
+      context: .
+    ports:
+      - "80:8000"
+    volumes:
+      - .:/app
+      - logvolume01:/var/log
+  redis:
+    image: redis
+volumes:
+  logvolume01: {}
